@@ -1,1 +1,3 @@
 hello , second day of git tutorial
+
+second a tutorial is not completed yet
