@@ -1,3 +1,7 @@
 hello , second day of git tutorial
 
 second a tutorial is not completed yet
+
+
+
+day 3  still studing  secound video of git 
