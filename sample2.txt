@@ -5,3 +5,5 @@ second a tutorial is not completed yet
 
 
 day 3  still studing  secound video of git 
+
+git clone file  (just editing)
