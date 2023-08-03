@@ -1,9 +1,12 @@
 hello , second day of git tutorial
 
-second a tutorial is not completed yet
+git secound day   tutorial is not completed yet
 
 
 
-day 3  still studing  secound video of git 
+git day 3 : still studing  secound video of git 
 
 git clone file  (just editing)
+
+
+git day 4 :  only one tutorial video and a live video on git remains 
