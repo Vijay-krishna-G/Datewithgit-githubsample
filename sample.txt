@@ -2,6 +2,4 @@ Hello, My name is Vijay Krishna.G , Iam 22 yeras old
 second day tutorial in sample 
 
 
-nrgative comment
-positive comment
-
+i have completed my git tutorial
